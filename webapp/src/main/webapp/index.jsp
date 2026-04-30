@@ -18,7 +18,11 @@
     <br>
 
     <label for="Brother name"><b> brother Name</b></label>
-    <input type="text" placeholder="Enter brother Name" name="brother" id="br0other" required>
+    <input type="text" placeholder="Enter brother Name" name="brother" id="brother" required>
+    <br>
+
+    <label for="sister name"><b> sister Name</b></label>
+    <input type="text" placeholder="Enter sister Name" name="sister" id="sister" required>
     <br>
 
     <label for="aadhar"><b>Aadhar</b></label>
