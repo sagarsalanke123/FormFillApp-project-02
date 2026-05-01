@@ -60,7 +60,7 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
-    <h1>Deops Project 05 completed by Sagar Salanke!!!</h1>
+    <h1>DevOps Project 05 completed by Sagar Salanke!!!</h1>
 
   </div>
 </form>
