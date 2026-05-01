@@ -33,6 +33,11 @@
     <input type="text" placeholder="Enter son Name" name="son" id="son" required>
     <br>
 
+    <label for="mom name"><b> mon Name</b></label>
+    <input type="text" placeholder="Enter mon Name" name="mon" id="mon" required>
+    <br>
+
+
 
     <label for="aadhar"><b>Aadhar</b></label>
     <input type="text" placeholder="Enter Aadhar" name="aadhar" id="aadhar" required>
@@ -55,5 +60,7 @@
 
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <h1>Deops Project 05 completed by Sagar Salanke!!!</h1>
+
   </div>
 </form>
